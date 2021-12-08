@@ -1,0 +1,7 @@
+.trending__section {
+  margin: -25px 20px 0px 0px;
+  height: 130px;
+  display: flex;
+  padding: 0;
+  flex-shrink: 0;
+}

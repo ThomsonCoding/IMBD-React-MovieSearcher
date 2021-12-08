@@ -1,0 +1,29 @@
+.search__header {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image: linear-gradient(
+    to right,
+    rgb(41, 43, 160),
+    rgb(128, 129, 179)
+  );
+  height: 25vh;
+  width: 100%;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.trending__text {
+  color: white;
+  margin-right: auto;
+  padding: 10px 20px;
+}
+
+input {
+  height: 30px;
+  padding: 2px 15px;
+  border-radius: 20px;
+  border: none;
+  width: 60%;
+}

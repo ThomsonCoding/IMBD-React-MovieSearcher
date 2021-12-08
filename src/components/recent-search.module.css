@@ -1,0 +1,12 @@
+.recent__search {
+  padding: 20px;
+}
+
+.recent__search h5 {
+  color: black;
+}
+
+.recent__search__results {
+  display: flex;
+  flex-wrap: wrap;
+}

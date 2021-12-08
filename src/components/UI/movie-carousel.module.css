@@ -1,0 +1,7 @@
+.movie__carousel {
+  display: flex;
+  padding: 0 0 0 20px;
+  flex-shrink: 0;
+  max-width: 100%;
+  overflow: scroll;
+}
